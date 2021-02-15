@@ -74,8 +74,8 @@ private void run(){
     }
     
 ```
-<<<<<<< HEAD
+
 ### The result
+The red part is sorted, grey part is unsorted. The lightblue one is the current number being compared, the blue one is the current minimun number.
 ![SelectionSorting](../img/01.png)
-=======
->>>>>>> f62cc48a45b181614b50974f383970dddb6983cc
+
