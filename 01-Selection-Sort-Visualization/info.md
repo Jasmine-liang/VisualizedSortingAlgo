@@ -28,9 +28,9 @@ private void run (){
 ```
 ### Core Methods Explanation
 In order to visualize this process, we need three variables to represent the current state:
-- orderedIndex: numbers from [0...orderedIndex] are ordered 
-- currentMinIndex: index of current minimun number
-- currentCompareIndex: index of current number being compared
+- `orderedIndex`: numbers from [0...orderedIndex] are ordered 
+- `currentMinIndex`: index of current minimun number
+- `currentCompareIndex`: index of current number being compared
 We set the initial value of these three numbers to -1.    
 During the sorting, once these three numbers have changed, we need to capture that change.
 ```java
@@ -74,5 +74,8 @@ private void run(){
     }
     
 ```
+<<<<<<< HEAD
 ### The result
 ![SelectionSorting](../img/01.png)
+=======
+>>>>>>> f62cc48a45b181614b50974f383970dddb6983cc
